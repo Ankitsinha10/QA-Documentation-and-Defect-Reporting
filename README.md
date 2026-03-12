@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=200&section=header&text=QA%20%26%20SDET%20Portfolio&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Ankit%20Kumar%20Sinha&descSize=22&descAlignY=58&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460&height=160&section=header" width="100%"/>
+
+# QA & SDET Portfolio
+## Ankit Kumar Sinha
 
 <br/>
 
@@ -11,13 +14,13 @@
 <br/>
 
 <table>
-<tr>
-<td align="center"><b>3+</b><br/><sub>Years Experience</sub></td>
-<td align="center"><b>4</b><br/><sub>Projects</sub></td>
-<td align="center"><b>24+</b><br/><sub>Bugs Found</sub></td>
-<td align="center"><b>62</b><br/><sub>Test Cases</sub></td>
-<td align="center"><b>91%</b><br/><sub>Pass Rate</sub></td>
-</tr>
+  <tr>
+    <td align="center"><b>3+</b><br/><sub>Years Experience</sub></td>
+    <td align="center"><b>1,000+</b><br/><sub>Test Cycles</sub></td>
+    <td align="center"><b>2,000+</b><br/><sub>Defects Found</sub></td>
+    <td align="center"><b>3</b><br/><sub>Certifications</sub></td>
+    <td align="center"><b>91%</b><br/><sub>Pass Rate</sub></td>
+  </tr>
 </table>
 
 </div>
@@ -56,31 +59,23 @@ QA-Documentation-and-Defect-Reporting/
 
 ---
 
-<div align="center">
-
 ### 1. 📱 Language Learning App — iOS Onboarding Testing
 #### *US Client · Confidential · March 2026*
 
-</div>
-
 <table>
-<tr><td><b>Type of Testing</b></td><td>Structured Test Cases · Functional · UI/UX · Edge Cases · Exploratory</td></tr>
-<tr><td><b>Platform</b></td><td>iOS · TestFlight · Physical Device</td></tr>
-<tr><td><b>Scope</b></td><td>Welcome → Sign-Up → Verification → Language → Fluency → Use Case → Milestone → Media → Pace → Time Summary → Awaits → Content Prep → Main Product Page</td></tr>
-<tr><td><b>Deliverable</b></td><td><code>QA_iOS_Onboarding_Portfolio.xlsx</code></td></tr>
+  <tr><td><b>Type of Testing</b></td><td>Structured Test Cases · Functional · UI/UX · Edge Cases · Exploratory</td></tr>
+  <tr><td><b>Platform</b></td><td>iOS · TestFlight · Physical Device</td></tr>
+  <tr><td><b>Scope</b></td><td>Welcome → Sign-Up → Verification → Language → Fluency → Use Case → Milestone → Media → Pace → Time Summary → Awaits → Content Prep → Main Product Page</td></tr>
+  <tr><td><b>Deliverable</b></td><td><code>QA_iOS_Onboarding_Portfolio.xlsx</code></td></tr>
 </table>
 
 **Summary:** Designed and executed a complete structured test suite for a language learning app onboarding flow (US client). Covered 62 test cases across 13 screens, discovered 9 bugs including 2 critical blockers, and delivered structured product feedback and risk analysis.
 
 #### 📊 Test Execution Results
 
-<div align="center">
-
 | Total TCs | ✅ Pass | ❌ Fail | 🐛 Bugs | 🔴 Critical | 🟠 High |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **62** | **57 (91%)** | **5 (9%)** | **9** | **2** | **3** |
-
-</div>
 
 #### 🔴 Bugs Found
 
@@ -101,7 +96,7 @@ QA-Documentation-and-Defect-Reporting/
 - **BUG-04 blocks 100% of users** who attempt to search for a language — complete onboarding blocker
 - **BUG-06 creates permanent lockout** with no recovery path — highest user drop-off risk in the flow
 - Identical milestone content undermines the core personalisation promise of the product
-- Strong 8-step onboarding architecture overall — thoughtfully designed personalisation questionnaire
+- Strong 8-step onboarding architecture — thoughtfully designed personalisation questionnaire
 
 <details>
 <summary><b>📋 View Structured Feedback Highlights</b></summary>
@@ -114,7 +109,7 @@ QA-Documentation-and-Defect-Reporting/
 - 8-step questionnaire collects meaningful signals for genuine personalisation
 
 **UX Friction Points:**
-- Error messages are grammatically incorrect and unhelpful — users don't know what to do
+- Error messages are grammatically incorrect and unhelpful — users don't know what to do next
 - 'Show more' invisible on selected milestone card — uninformed goal selection risk
 - Legend label truncated on Time Summary chart — damages polish before product entry
 
@@ -127,25 +122,19 @@ QA-Documentation-and-Defect-Reporting/
 
 ---
 
-<div align="center">
-
 ### 2. 🔧 TF2 Item Marketplace — SDET Buildability Report
 #### *US Client · Confidential · March 2026*
 
-</div>
-
 <table>
-<tr><td><b>Type of Review</b></td><td>SDET Buildability & Setup Readiness · Code Review · Hands-On Build Testing · Production Smoke Test</td></tr>
-<tr><td><b>Repositories</b></td><td>Legacy Repo + Revamped Repo</td></tr>
-<tr><td><b>Stack</b></td><td>Python · FastAPI · React 19 · Vite · Tailwind CSS v4 · Redis · MySQL · Stripe · Twilio · Sentry · CI/CD</td></tr>
-<tr><td><b>Deliverable</b></td><td><code>QA_Buildability_Report_Portfolio.pdf</code></td></tr>
+  <tr><td><b>Type of Review</b></td><td>SDET Buildability & Setup Readiness · Code Review · Hands-On Build Testing · Production Smoke Test</td></tr>
+  <tr><td><b>Repositories</b></td><td>Legacy Repo + Revamped Repo</td></tr>
+  <tr><td><b>Stack</b></td><td>Python · FastAPI · React 19 · Vite · Tailwind CSS v4 · Redis · MySQL · Stripe · Twilio · Sentry · CI/CD</td></tr>
+  <tr><td><b>Deliverable</b></td><td><code>QA_Buildability_Report_Portfolio.pdf</code></td></tr>
 </table>
 
 **Summary:** Full SDET-level technical discovery across two codebases for a live US-client marketplace. Assessed buildability, dependency health, environment configuration, CI/CD pipeline, and smoke tested the live production site. Delivered as Deliverable #1 of the QA engagement.
 
 #### 📊 Repository Comparison
-
-<div align="center">
 
 | Category | Legacy Repo | Revamped Repo |
 |---|:---:|:---:|
@@ -157,8 +146,6 @@ QA-Documentation-and-Defect-Reporting/
 | CI/CD pipeline | ❌ Not present | ✅ Full auto-deploy |
 | Test automation | ❌ None | ❌ None — to build |
 | Time to first build | ⚠️ ~2 hours (manual fixes) | ✅ ~10 minutes |
-
-</div>
 
 #### 🔴 Production UI Bugs Found (Live Smoke Test)
 
@@ -197,17 +184,13 @@ QA-Documentation-and-Defect-Reporting/
 
 ---
 
-<div align="center">
-
 ### 3. 🌐 Sheetal.net — Packers & Movers Website
 
-</div>
-
 <table>
-<tr><td><b>Type of Testing</b></td><td>Exploratory · UI/UX · Accessibility · Functional</td></tr>
-<tr><td><b>Environment</b></td><td>macOS · Google Chrome v145</td></tr>
-<tr><td><b>URL</b></td><td><a href="https://sheetal.net">sheetal.net</a></td></tr>
-<tr><td><b>Deliverable</b></td><td><code>Ankit_Sinha_Bug_Report_Sheetal_net.xlsx</code></td></tr>
+  <tr><td><b>Type of Testing</b></td><td>Exploratory · UI/UX · Accessibility · Functional</td></tr>
+  <tr><td><b>Environment</b></td><td>macOS · Google Chrome v145</td></tr>
+  <tr><td><b>URL</b></td><td><a href="https://sheetal.net">sheetal.net</a></td></tr>
+  <tr><td><b>Deliverable</b></td><td><code>Ankit_Sinha_Bug_Report_Sheetal_net.xlsx</code></td></tr>
 </table>
 
 **Summary:** Exploratory testing on a live packers and movers business website focusing on core lead-generation flows, WCAG accessibility compliance, and UI consistency.
@@ -223,6 +206,7 @@ QA-Documentation-and-Defect-Reporting/
 | BUG-005 | Homepage | Sticky "Get Free Quote" CTA button completely unresponsive | 🟠 High | High |
 
 #### 💡 Key Findings
+
 - **2 High severity bugs** blocking primary business conversion channels (lead form + CTA)
 - `ReferenceError: Validator is not defined` exposed in browser console during form submission
 - `tel:` protocol missing on phone CTA — broken on both desktop and mobile
@@ -230,31 +214,23 @@ QA-Documentation-and-Defect-Reporting/
 
 ---
 
-<div align="center">
-
 ### 4. 🛒 DemoBlaze — E-Commerce Application
 
-</div>
-
 <table>
-<tr><td><b>Type of Testing</b></td><td>Exploratory · Functional · UI/UX · Validation</td></tr>
-<tr><td><b>Environment</b></td><td>macOS Sequoia 15.6 · MacBook Air M1 · Chrome v142</td></tr>
-<tr><td><b>URL</b></td><td><a href="https://demoblaze.com">demoblaze.com</a></td></tr>
-<tr><td><b>Scope</b></td><td>Homepage · Product Listing · Cart · Checkout · Login · Contact</td></tr>
-<tr><td><b>Deliverable</b></td><td><code>Ankit_Sinha_DBZ_BugReports.xlsx</code></td></tr>
+  <tr><td><b>Type of Testing</b></td><td>Exploratory · Functional · UI/UX · Validation</td></tr>
+  <tr><td><b>Environment</b></td><td>macOS Sequoia 15.6 · MacBook Air M1 · Chrome v142</td></tr>
+  <tr><td><b>URL</b></td><td><a href="https://demoblaze.com">demoblaze.com</a></td></tr>
+  <tr><td><b>Scope</b></td><td>Homepage · Product Listing · Cart · Checkout · Login · Contact</td></tr>
+  <tr><td><b>Deliverable</b></td><td><code>Ankit_Sinha_DBZ_BugReports.xlsx</code></td></tr>
 </table>
 
 **Summary:** Comprehensive exploratory testing on a demo e-commerce application. Uncovered critical checkout vulnerabilities, cart persistence failures, and missing form validations across the entire purchase flow.
 
 #### 📊 Bug Summary
 
-<div align="center">
-
 | 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low | Total |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | 3 | 4 | 2 | **10** |
-
-</div>
 
 #### 🔴 Bugs Found
 
@@ -312,8 +288,8 @@ QA-Documentation-and-Defect-Reporting/
 ![UI/UX Bug Identification](https://img.shields.io/badge/UI%2FUX%20Bug%20Identification-1a1a2e?style=flat-square&logoColor=white)
 ![Form Validation Testing](https://img.shields.io/badge/Form%20Validation%20Testing-1a1a2e?style=flat-square&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white)
-![Severity & Priority Classification](https://img.shields.io/badge/Severity%20%26%20Priority%20Classification-1a1a2e?style=flat-square&logoColor=white)
-![Developer-Ready Bug Documentation](https://img.shields.io/badge/Developer--Ready%20Bug%20Documentation-1a1a2e?style=flat-square&logoColor=white)
+![Severity & Priority Classification](https://img.shields.io/badge/Severity%20%26%20Priority-1a1a2e?style=flat-square&logoColor=white)
+![Developer-Ready Bug Documentation](https://img.shields.io/badge/Developer--Ready%20Docs-1a1a2e?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -325,8 +301,8 @@ QA-Documentation-and-Defect-Reporting/
 
 ## 🔗 Related Projects
 
-- 🤖 **Playwright TypeScript Automation Framework** — Production-grade UI + API automation with POM, Allure reporting & CI/CD
-- 🧪 **SauceDemo E2E Test Suite** — E2E automated scenarios with GitHub Actions CI/CD
+- **[Playwright TypeScript Automation Framework](https://github.com/Ankitsinha10/Playwright-TypeScript-Automation-Framework)** — Production-grade UI + API automation with POM, Allure reporting & CI/CD
+- **[SauceDemo E2E Test Suite](https://github.com/Ankitsinha10/saucedemo-playwright-automation)** — E2E automated scenarios with GitHub Actions CI/CD
 
 ---
 
@@ -337,4 +313,3 @@ QA-Documentation-and-Defect-Reporting/
 <sub>All bug evidence (screenshots/videos) linked within the Excel reports via Google Drive. &nbsp;|&nbsp; Client identifiers have been anonymised in projects 1 and 2.</sub>
 
 </div>
-
